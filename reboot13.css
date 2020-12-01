@@ -1,0 +1,559 @@
+.mediaViewInfo {
+	--web-view-name: iPhone 6, 7, 8 – 1;
+	--web-view-id: iPhone_6_7_8__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_6_7_8__1 {
+	position: absolute;
+	width: 375px;
+	height: 782px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone 6, 7, 8 – 1;
+	--web-view-id: iPhone_6_7_8__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Instagram-Logo {
+	position: absolute;
+	width: 177px;
+	height: 111px;
+	left: 99px;
+	top: 3px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: transparent;
+	stroke: rgba(220,220,220,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 39px;
+	left: 52px;
+	top: 119px;
+}
+#Rectangle_2 {
+	fill: transparent;
+	stroke: rgba(220,220,220,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 39px;
+	left: 52px;
+	top: 163px;
+}
+#Rectangle_3 {
+	fill: rgba(0,149,246,1);
+	stroke: rgba(0,149,246,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 30px;
+	left: 52px;
+	top: 215px;
+}
+#Phone_number_username_or_email {
+	left: 62px;
+	top: 129px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Password {
+	left: 62px;
+	top: 174px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Log_In {
+	left: 168px;
+	top: 220px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Log_In_with_Facebook {
+	left: 132px;
+	top: 306px;
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(59,87,157,1);
+}
+#Forgot_password {
+	left: 140px;
+	top: 344px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Get_the_app {
+	left: 149px;
+	top: 469px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#Dont_have_an_account_Sign_up {
+	left: 88px;
+	top: 410px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 109px;
+	height: 1px;
+	left: 52.5px;
+	top: 270.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 109px;
+	height: 1px;
+	left: 214.5px;
+	top: 270.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#OR {
+	left: 179px;
+	top: 262px;
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#Facebook_logo_square {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 107px;
+	top: 306px;
+	overflow: visible;
+}
+#images_1 {
+	position: absolute;
+	width: 137px;
+	height: 40px;
+	left: 48px;
+	top: 508px;
+	overflow: visible;
+}
+#images_2 {
+	position: absolute;
+	width: 135px;
+	height: 40px;
+	left: 192px;
+	top: 508px;
+	overflow: visible;
+}
+#About {
+	left: 45px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Blog {
+	left: 94px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Jobs {
+	left: 134px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#API {
+	left: 213px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Privacy {
+	left: 246px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Terms {
+	left: 295px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Top_Accounts {
+	left: 88px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Beauty {
+	left: 36px;
+	top: 657px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Dance__Performance {
+	left: 88px;
+	top: 657px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Fitness {
+	left: 217px;
+	top: 657px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Food__Drink {
+	left: 269px;
+	top: 657px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Home__Garden {
+	left: 86px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#ID2020_Instagram_from_Facebook {
+	left: 134px;
+	top: 710px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Music {
+	left: 185px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Visual_Arts {
+	left: 233px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#English {
+	left: 64px;
+	top: 710px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Hashtags {
+	left: 173px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Locations {
+	left: 238px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Help {
+	left: 173px;
+	top: 615px;
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 111.5px;
+	top: 719.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 9.255px;
+	height: 5.715px;
+	left: 107.413px;
+	top: 714.849px;
+	transform: matrix(1,0,0,1,0,0);
+}

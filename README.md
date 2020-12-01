@@ -30,4 +30,4 @@ Telegram : [@reboot13](https://telegram.me/reboot13)
 
 Youtube: [Krutik Raut](https://youtube.com/krutikraut)
 
-Blog: [@reboot13](https://hashnode.com/reboot13)
+Blog: [@reboot13](https://hashnode.com/@reboot13)
